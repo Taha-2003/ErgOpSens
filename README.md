@@ -16,8 +16,11 @@ ErgOpSens est une solution modulaire permettant l'analyse ergonomique des gestes
 
 ## Équipe
 
-- Chef de projet : Mohamed Hedi Dridi  
-- Membres : Taha Eddouadi, Abdelmajid Essoual, Youri Larose  
+- **Chef de projet** : [Mohamed Hedi Dridi](https://www.linkedin.com/in/mohamed-hedi-dridi-mhdridi07/)
+- **Membres** :  
+  - [Taha Eddouadi](https://www.linkedin.com/in/taha-eddouadi-8586442b8/)  
+  - [Abdelmajid Essoual](https://www.linkedin.com/in/abdelmajid-essoual-b25bbb19b/)  
+  - [Youri Larose](https://www.linkedin.com/in/youri-l-055289214?trk=contact-info)   
 - Encadrante : Jelila Labed  
 - Client : Thierry Blandet (ICube – IGG), en collaboration avec Romaric Mathis
 
